@@ -1,0 +1,3 @@
+uvicorn[standard]==0.22.0
+fastapi==0.95
+chess==1.9.4
